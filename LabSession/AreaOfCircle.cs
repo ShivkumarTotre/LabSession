@@ -17,7 +17,7 @@ namespace LabSession
 
             double area = pi * iRadius * iRadius;
 
-            Console.WriteLine($"Area of Circle is {area}");
+            Console.WriteLine($"Area of Circle is {area}"); 
         }
     }
 }
